@@ -1,15 +1,17 @@
-Sea Level Predictor 🌊
+                                                       Sea Level Predictor 🌊
+
 Analyze the global average sea level changes since 1880 and predict future trends up to 2050 using Python, leveraging essential libraries for data analysis and visualization.
-📖 Project Overview
+                                                       📖 Project Overview
+
 This project utilizes historical data from the US Environmental Protection Agency to study the rise in global sea levels. The model employs scientific analysis and predictive modeling to forecast future sea-level changes. It provides an interactive tool for visualizing both historical and projected data trends.
-Key Features
+                                                           Key Features
 - Generate scatter plots for visual analysis of sea level trends.
 - Use linear regression to estimate the future rise in sea levels.
 - Create dual best-fit lines:
 - One based on the entire dataset.
 - Another focusing on data from the year 2000 onward.
 - Predict sea level changes for the year 2050.
-Data Source
+                                                            Data Source
 The dataset is derived from Global Average Absolute Sea Level Change (1880–2014) provided by:
 - CSIRO, 2015
 - NOAA, 2015
